@@ -63,12 +63,12 @@ TypeORM: ORM (Object-Relational Mapping) baseado em TypeScript para o acesso e m
 ## Configuração e Execução
 Siga os passos abaixo para configurar e executar o projeto:
 
-Certifique-se de ter o Node.js e o npm instalados em seu sistema.
-Clone este repositório: git clone https://github.com/PSousaDev/CleanArch.
-Acesse o diretório do projeto: cd CleanArch.
-Instale as dependências do projeto: npm install.
-Inicie o servidor: npm run start:dev.
-O servidor estará rodando em http://localhost:3000.
+- Certifique-se de ter o Node.js e o npm instalados em seu sistema.
+- Clone este repositório: git clone https://github.com/PSousaDev/CleanArch.
+- Acesse o diretório do projeto: cd CleanArch.
+- Instale as dependências do projeto: npm install.
+- Inicie o servidor: npm run start:dev.
+- O servidor estará rodando em http://localhost:3000.
 
 ## Observação  
 Usei sqlite apenas para facilitar a construção da arquitetura, é possivel utilizar qualquer tipo de banco pois mantive o padrão de utilizar todas as configurações do banco na pasta configuration e toda a utilização do banco dentro da pasta framework assim facilitando o entendimento e escalabilidade da aplicação 
@@ -134,12 +134,12 @@ TypeORM: A TypeScript-based ORM (Object-Relational Mapping) for accessing and ma
 ## Configuration and Execution
 Follow the steps below to configure and run the project:
 
-Ensure that Node.js and npm are installed on your system.
-Clone this repository: git clone https://github.com/PSousaDev/CleanArch.
-Navigate to the project directory: cd CleanArch.
-Install the project dependencies: npm install.
-Start the server: npm run start:dev.
-The server will be running at http://localhost:3000.
+- Ensure that Node.js and npm are installed on your system.
+- Clone this repository: git clone https://github.com/PSousaDev/CleanArch.
+- Navigate to the project directory: cd CleanArch.
+- Install the project dependencies: npm install.
+- Start the server: npm run start:dev.
+- The server will be running at http://localhost:3000.
 
 ## Example Usage
 After starting the server, you can interact with the API through the controllers defined in the src/controllers folder. Each controller defines routes and handles the specific business logic for that route, calling the appropriate use cases.
