@@ -64,8 +64,8 @@ TypeORM: ORM (Object-Relational Mapping) baseado em TypeScript para o acesso e m
 Siga os passos abaixo para configurar e executar o projeto:
 
 Certifique-se de ter o Node.js e o npm instalados em seu sistema.
-Clone este repositório: git clone https://github.com/PSousaDev/Desafio-Clock-In-It.
-Acesse o diretório do projeto: cd Desafio-Clock-In-It.
+Clone este repositório: git clone https://github.com/PSousaDev/CleanArch.
+Acesse o diretório do projeto: cd CleanArch.
 Instale as dependências do projeto: npm install.
 Inicie o servidor: npm run start:dev.
 O servidor estará rodando em http://localhost:3000.
@@ -135,8 +135,8 @@ TypeORM: A TypeScript-based ORM (Object-Relational Mapping) for accessing and ma
 Follow the steps below to configure and run the project:
 
 Ensure that Node.js and npm are installed on your system.
-Clone this repository: git clone https://github.com/PSousaDev/Desafio-Clock-In-It.
-Navigate to the project directory: cd your-repository.
+Clone this repository: git clone https://github.com/PSousaDev/CleanArch.
+Navigate to the project directory: cd CleanArch.
 Install the project dependencies: npm install.
 Start the server: npm run start:dev.
 The server will be running at http://localhost:3000.
